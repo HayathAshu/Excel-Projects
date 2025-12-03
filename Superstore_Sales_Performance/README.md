@@ -86,10 +86,7 @@ All charts dynamically update based on slicer selection.
 
 ## 📸 Dashboard Preview
 
-> *(Insert a screenshot of your dashboard here after uploading the Excel file.)*  
-Example:
-
-![Dashboard Screenshot](./images/dashboard.png)
+![Superstore Dashboard](Super%20Store%20Dasboard%20Pic.png)
 
 
 
